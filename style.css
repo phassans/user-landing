@@ -103,7 +103,7 @@ header {
 }
 
 /* ============= 3. SLIDER AREA ============= */
-.hero-area { 
+.hero-area {
   /*background-image: url(img/slider/1.png);*/
   background-color: #FD763C;
   background-size: cover;
@@ -387,6 +387,7 @@ header {
   color: #999999;
   line-height: 25px;
   text-align: left;
+  font-size: 16px;
 }
 
 .howItWorksTitle {
