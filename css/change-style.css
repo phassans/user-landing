@@ -25,12 +25,12 @@ body {
 
 @media(max-height: 700px) {
 	.hero-text h1 {
-		font-size: 6vh;
+		font-size: 8vh;
 	}
 
 	@media(max-width: 768px) {
 		.hero-text h1 {
-			font-size: 6vw;
+			font-size: 8vw;
 		}
 	}
 }
