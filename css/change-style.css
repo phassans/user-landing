@@ -84,7 +84,7 @@ body {
 }
 
 .service-area {
-	padding-top: 100px;
+	/*padding-top: 100px;*/
 }
 
 .service-area .service-icon {
@@ -92,12 +92,12 @@ body {
 }
 
 .service-area.white-bg img {
-	max-height: 725px;
+	max-height: 652.5px;
 }
 
 @media(max-width: 526px) {
 	.service-area.white-bg img {
-		max-height: 725px;
+		max-height: 652.5px;
 	}
 }
 
@@ -111,7 +111,7 @@ body {
 
 /*Padding for phone image content*/
 .service-content h2 {
-	margin-top: 25%;
+	/*margin-top: 25%;*/
 }
 
 /*Padding for bottom download area*/
